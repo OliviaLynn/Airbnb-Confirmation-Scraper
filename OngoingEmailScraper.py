@@ -13,9 +13,7 @@ from bs4 import BeautifulSoup
 
 """
 TODO:
-test on more than just that single sample email
 get the data sent to our db
-get it up and running on its own, execute every minute or so
 """
 
 # ------------------------------------------------------------------------------
