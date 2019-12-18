@@ -25,9 +25,9 @@ $ pip install pyzmail36 beautifulsoup4 pytz
 
 
 ### Running
-From your shell, run the command:
+- From your shell, run the command:
 ```shell
 $ python OngoingEmailScraper.py <smartbnb-username> <smartbnb-password>
 ```
-*(The single pass email scraper has been included for posterity's sake only - you should still be able to run it, but development will only occur on the ongoing scraper)*
-
+- The single pass email scraper has been included for posterity's sake only - you should still be able to run it, but development will only occur on the ongoing scraper.
+- Each run will write or update a file `dateOfLastScrape.txt`, which we use when determining if any *new* emails have arrived since our last scrape.
