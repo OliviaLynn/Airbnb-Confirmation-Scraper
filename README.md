@@ -17,7 +17,7 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 ```
 #### Python Packages
 ```shell
-$ pip install pyzmail36 beautifulsoup4 pytz
+pip install pyzmail36 beautifulsoup4 pytz
 ```
 - **PyzMail (1.0.4):** Helps us parse the MIME encoding of the emails we scrape. *(using pyzmail36 instead of pyzmail for Python 3.6+!)*
 - **Beautiful Soup (4.7.1):** For navigating the html of the email bodies.
