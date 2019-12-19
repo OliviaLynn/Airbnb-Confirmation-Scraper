@@ -3,6 +3,8 @@
 
 Every minute, scans for new confirmation emails from Airbnb, which are then scraped and saved as JSON.
 
+<img src="https://i.imgur.com/ctBXbRg.png" />
+
 ## Getting Started
 
 These instructions will get the project up and running on your own machine with your own Gmail account.
