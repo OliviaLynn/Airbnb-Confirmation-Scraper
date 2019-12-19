@@ -10,7 +10,7 @@ These instructions will get the project up and running on your own machine with 
 ### Prerequisites
 
 #### Gmail API
-- Follow Step 1 Google's instructions found [here](https://developers.google.com/gmail/api/quickstart/python) to enable the Gmail API and receive the file `credentials.json`, which you should place in the same directory as the scraper
+- Follow Step 1 of Google's instructions found [here](https://developers.google.com/gmail/api/quickstart/python) to enable the Gmail API and receive the file `credentials.json`, which you should place in the same directory as the scraper
 - Install the Google Client Library:
 ```shell
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
